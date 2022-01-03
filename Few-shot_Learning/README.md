@@ -27,4 +27,4 @@ Finetuning().run(eval=100)
 
 ## Acknowledgments
 
-The experiment results and discussion are shown in the 'Report_hyperparameter_optimization.pdf'
+The experiment results and discussion are shown in the 'Report_Few-shot_Learning.pdf'
