@@ -15,4 +15,8 @@ Have Python3, sklearn and scipy installed
 
 ## Acknowledgments
 
+<<<<<<< HEAD
 The experiment results and discussion are shown in the 'Report_hyperparameter_optimization.pdf'
+=======
+The experiment results and discussion are shown in the 'Report_hyperparameter_optimization.pdf'
+>>>>>>> c637e2e8bb2b0f0f3ba79837df4862b30e82cce2
